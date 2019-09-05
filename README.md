@@ -1,5 +1,7 @@
 # AI Nights September 2019 Content
 
+##Beginner Track
+
 ### Part 1 - Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services (1 hour)
 
 In this workshop you will be introduced to the Microsoft Azure Cognitive Services, a range of offerings you can use to infuse intelligence and machine learning into your applications without needing to build the code from scratch. We will cover pre-trained AI APIs, such as computer vision and text analytics, that are accessed by REST protocol. nEXT we will dive into Custom AI that uses transfer learning - Microsoft Azure Custom Vision. This enables you to provide a small amount of your own data to train an image classification model. Wrapping the workshop up by building our custom trained AI into an application - using Logic Apps, this technology is ideal for building data pipeline processes that work with your machine learning models.
@@ -13,6 +15,8 @@ In this workshop you will be introduced to the data science process for building
 
 #### Materials
 * [Github Content - For Attendees](https://github.com/cassieview/wine-quality-azure-ml-visual-interface/)
+
+##Intermediate Track
 
 ### Part 3 - Learn how to train high accuracy machine learning models using automated machine learning (1 hour)
 
