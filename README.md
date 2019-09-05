@@ -1,6 +1,16 @@
 # AI Nights September 2019 Content
 
-##Beginner Track
+The Global AI Night is a free evening event organized by 94 communities all over the world that are passionate about Artificial Intelligence on the Microsoft Azure.
+
+During this AI Night you will get inspired through sessions and get your hands dirty during the workshops. By the end of the night you will be able to infuse AI into your applications.
+
+## Pre-requisites for your machine
+
+* Microsoft Azure Subscription - get a free trial [here](https://azure.microsoft.com/)
+* Laptop with a modern web browser (Google Chrome, Microsoft Edge)
+
+
+## Beginner Track
 
 ### Part 1 - Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services (1 hour)
 
@@ -16,7 +26,7 @@ In this workshop you will be introduced to the data science process for building
 #### Materials
 * [Github Content - For Attendees](https://github.com/cassieview/wine-quality-azure-ml-visual-interface/)
 
-##Intermediate Track
+## Intermediate Track
 
 ### Part 3 - Learn how to train high accuracy machine learning models using automated machine learning (1 hour)
 
